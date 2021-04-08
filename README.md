@@ -10,6 +10,6 @@ Just a note; depending on your setup you should change hires to false if your sc
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Back        |     Back    |    -      |    -     |    -     |     -     |
 | Forward        |     Forward      |     Pause      |     Pause     |     Next Song      |     Previous Song    |
-| Middle (Mousewheel)       |     KEY_LEFTMETA     |    -      |      -     |     "KEY_LEFTCTRL", "KEY_PAGEDOWN"      |     "KEY_LEFTCTRL", "KEY_PAGEUP"      |
-| Thumb Gesture        |     "KEY_LAUNCHA"      |     "KEY_LEFTCTRL", "KEY_UP"     |     "KEY_LEFTCTRL", "KEY_DOWN"    |     "KEY_LEFTCTRL", "KEY_RIGHT"       |     "KEY_LEFTCTRL" "KEY_LEFT"      |
+| Middle (Mousewheel)       |     "KEY_LEFTMETA"     |    -      |      -     |     "KEY_LEFTCTRL", "KEY_PAGEDOWN"      |     "KEY_LEFTCTRL", "KEY_PAGEUP"      |
+| Thumb Gesture        |     "KEY_LAUNCHA"      |     "KEY_LEFTCTRL", "KEY_UP" (Maximise Windows)     |     "KEY_LEFTCTRL", "KEY_DOWN" (Unmaximise Window)    |     "KEY_LEFTCTRL", "KEY_RIGHT" (Workspace Down/Right)      |     "KEY_LEFTCTRL" "KEY_LEFT" (Workspace Up/Left)     |
 | Thumb Wheel        |           |         |           |     Volume Up       |     Volume Down     |
