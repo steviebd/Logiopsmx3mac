@@ -13,3 +13,4 @@ Just a note; depending on your setup you should change hires to false if your sc
 | Middle (Mousewheel)       |     "KEY_LEFTMETA"     |    -      |      -     |     "KEY_LEFTCTRL", "KEY_PAGEDOWN"      |     "KEY_LEFTCTRL", "KEY_PAGEUP"      |
 | Thumb Gesture        |     "KEY_LAUNCHA"      |     "KEY_LEFTCTRL", "KEY_UP" (Maximise Windows)     |     "KEY_LEFTCTRL", "KEY_DOWN" (Unmaximise Window)    |     "KEY_LEFTCTRL", "KEY_RIGHT" (Workspace Down/Right)      |     "KEY_LEFTCTRL" "KEY_LEFT" (Workspace Up/Left)     |
 | Thumb Wheel        |           |         |           |     Volume Up       |     Volume Down     |
+| SmartShift Button Below MouseWheel        |     ToggleSmartShift    |    ChangeDPI by +1000      |    ChangeDPI by -1000      |         |          |
