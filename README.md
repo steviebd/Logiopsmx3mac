@@ -2,6 +2,8 @@
 [Logiops](https://github.com/PixlOne/logiops) configuration for MX Master 3 based on apple keyboard shortcut and workflow on Ubuntu.
 Based on a similar configuration on MacOS shortcut keys.
 
+Configuration location @ /etc/logid.cfg
+
 Includes gestures, smartshift, DPI & thumbwheel.
 
 Just a note; depending on your setup you should change hires to false if your scroll speed is too fast.
